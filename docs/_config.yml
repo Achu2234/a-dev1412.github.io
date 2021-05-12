@@ -1,0 +1,8 @@
+title: HTTP Proxy Injector
+description: A-Developer1412 - HTTP Proxy Injector
+google_analytics: 
+show_downloads: true
+theme: jekyll-theme-cayman
+
+gems:
+  - jekyll-mentions
